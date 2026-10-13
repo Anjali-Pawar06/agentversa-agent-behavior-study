@@ -146,6 +146,14 @@ I will examine whether Evidentia:
 * Maintains its evidence-review role without ignoring relevant cross-role risks.
 * Handles disagreement or challenges without abandoning evidence-based reasoning.
 
+## Source and Revision Note
+
+I revised this observation to make the distinction between the episode packet and Evidentia's demonstrated behaviour clearer. The packet describes the outage, K17 account activity, maintenance uncertainty, the affected service users, and the supervisor's request. Evidentia's recorded recommendation specifically concerns preserving audit logs.
+
+I therefore treat the recommendation as direct evidence of Evidentia's stated action preference, while treating the other packet details as context for evaluating the recommendation. I do not attribute every packet fact or every unresolved response requirement to Evidentia as something it explicitly considered.
+
+Where the journal's wording or quotations differ from the original episode material, the original episode statement is the reference point. Any paraphrase is identified as a paraphrase rather than presented as a direct quotation. I do not reconstruct earlier wording unless it can be verified from a saved earlier version.
+
 ## 13. Preliminary Conclusion
 
 In Scenario 1, Evidentia recommended preserving audit logs to secure potentially relevant evidence. This behavior is consistent with its designed evidence-focused role and responds to the risk of losing detailed logs through routine rotation.
