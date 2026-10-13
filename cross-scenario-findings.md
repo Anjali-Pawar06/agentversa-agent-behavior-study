@@ -1,9 +1,8 @@
-# Cross-Scenario Findings
+Cross-Scenario Findings
 
-## Comparison of Evidentia's Observed Behaviour
+Comparison of Evidentia's Observed Behaviour
 
-The following table compares Evidentia's observed behaviour across Scenarios 0, 1, and 2. The findings are based on the available episode statements and structured reflections. Behaviours that were not tested or not explicitly demonstrated are marked accordingly.
-
+The following table compares Evidentia's observed behaviour across Scenarios 0, 1, and 2. The findings are based on recorded agent statements, displayed structured reflections, and explicitly identified episode evidence. Packet facts are distinguished from behaviour directly demonstrated by Evidentia. Behaviours that were not tested or not explicitly demonstrated are marked accordingly.
 | Behaviour / Criterion                     | Scenario 0: Orientation                                                                                               | Scenario 1: Portal Disruption                                                                                                                                               | Scenario 2: Clock Discrepancies                                                                                                                 |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Evidence-focused behaviour**            | Prepared to assess evidence when it became available. Acknowledged that no evidence was available for assessment.     | Recommended preserving audit logs relevant to the portal disruption.                                                                                                        | Recommended retrieving an independent authentication source to clarify K17 account usage.                                                       |
