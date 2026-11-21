@@ -25,6 +25,9 @@ Based on its Version 1 design, I expected it to:
 
 I also predicted that Evidentia might favour a short, reviewed holding statement rather than allowing inaccurate claims to be released. However, I was uncertain whether it would recommend issuing the statement immediately or waiting one day for a longer joint review.
 
+Predictions made on 10/11/2026
+https://github.com/Anjali-Pawar06/agentversa-agent-behavior-study/blob/main/predictions/scenario-predictions.md
+
 ## 3. What Happened in the Published Episode
 
 Evidentia recommended revising the public statement.
