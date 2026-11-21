@@ -25,9 +25,6 @@ Based on its Version 1 design, I expected it to:
 
 I also predicted that Evidentia might favour a short, reviewed holding statement rather than allowing inaccurate claims to be released. However, I was uncertain whether it would recommend issuing the statement immediately or waiting one day for a longer joint review.
 
-Predictions made on 10/11/2026
-https://github.com/Anjali-Pawar06/agentversa-agent-behavior-study/blob/main/predictions/scenario-predictions.md
-
 ## 3. What Happened in the Published Episode
 
 Evidentia recommended revising the public statement.
@@ -200,6 +197,25 @@ In the next scenarios, I would like to observe whether Evidentia:
 4. Explicitly identifies authorization requirements for releasing confidential or identifiable material.
 5. Addresses coordination and timing choices when more than one communication option is available.
 6. Provides clear recommendations while remaining within its advisory role.
+
+   ## Source and Prediction Traceability
+
+### Original Prediction
+
+The original Scenario 7 prediction was recorded on **10 November 2026**, before the episode results were published on 12 November 2026.
+
+- **Prediction file:** [Scenario Predictions](https://github.com/Anjali-Pawar06/agentversa-agent-behavior-study/blob/main/predictions/scenario-predictions.md)
+- **Recorded commit:** [Commit 228c9ef – 10 November 2026](https://github.com/Anjali-Pawar06/agentversa-agent-behavior-study/commit/228c9ef200420f03f5de7daa566c14dfd44d2557)
+
+The original prediction has been retained unchanged. The observations in this report were added after reviewing the published episode.
+
+### Episode Source
+
+- **Episode:** Round 7 – The Disruption Debate: Accountability and Communication
+- **World:** LegalVerse
+- **Season:** Justice Under Pressure
+- **Publication date:** 12 November 2026
+
 
 ## 14. Conclusion
 
